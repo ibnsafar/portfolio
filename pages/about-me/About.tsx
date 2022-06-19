@@ -1,4 +1,5 @@
 import {NextPage} from "next";
+import "./css/about.css";
 
 const About: NextPage = () => {
     return (
