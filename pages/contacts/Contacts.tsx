@@ -1,5 +1,4 @@
 import {NextPage} from "next";
-import "./css/contacts.css";
 
 const Contacts: NextPage = () => {
     return (

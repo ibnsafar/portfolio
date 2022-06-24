@@ -1,5 +1,4 @@
 import {NextPage} from "next";
-import "./css/service.css";
 
 const Service: NextPage = () => {
     return (
